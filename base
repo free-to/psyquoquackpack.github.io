@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+<title>HAHA</title>
+</head>
+<body>
+<form action="image/1.jpg" method="post">
+<input type="submit" name="send" value="suite">
+</form> 
+<form action="image/2.jpg" method="post">
+<input type="submit" name="send" value="suite">
+</form> 
+<form action="image/video/3.mp4" method="post">
+<input type="submit" name="send" value="suite">
+</form> 
+<form action="image/video/4.mp4" method="post">
+<input type="submit" name="send" value="suite">
+</form> 
+</body>
+</html>
